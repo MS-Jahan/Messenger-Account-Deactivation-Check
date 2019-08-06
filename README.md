@@ -1,5 +1,5 @@
 # Messenger Account Deactivation Check
-Real-time onitor when an Facebook Messenger account is deactivated or activated.
+Real-time monitor when an Facebook Messenger account is deactivated or activated.
 
 # Usage
 * Make sure you have installed Python 3 in your machine. 
