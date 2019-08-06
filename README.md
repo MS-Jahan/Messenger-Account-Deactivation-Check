@@ -1,2 +1,2 @@
-# Messenger-Account-Deactivation-Check
-Monitor when an Facebook Messenger account is deactivated or activated.
+# Messenger Account Deactivation Check
+Real-time onitor when an Facebook Messenger account is deactivated or activated.
