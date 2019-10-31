@@ -31,12 +31,12 @@ while i < 1:
 
 	if user.name == 'Facebook User':
 		print(not_avail)
-		f = open("report.txt", "a")
+		f = open("report.txt", "a+")
 		f.write(not_avail)
 		f.close()
 	else:
 		print(avail)
-		f = open("report.txt", "a")
+		f = open("report.txt", "a+")
 		f.write(avail)
 		f.close()
 		user = '0'
