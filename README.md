@@ -1,6 +1,3 @@
-# [THIS THING ISN'T WORKING RIGHT NOW (fbchat module issue). USE IT IF YOU CAN DEBUG AND LET ME KNOW IF YOU CAN.]
-
-
 # Messenger Account Deactivation Check
 Real-time monitor when an Facebook Messenger account is deactivated or activated.
 
